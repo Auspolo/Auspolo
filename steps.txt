@@ -1,0 +1,31 @@
+basic programming princeples before programming in flutter
+
+* classes
+* functions & methods
+* variables
+* asynchronous codes
+
+flutter installation
+
+* make a new folder in C drive and name it src.
+
+* put the zip file in flutter folder then unzip it.
+
+* go to the bin file then copy the directory (C:\src\flutter\bin)
+
+* Search for environment variables then go to path.
+
+* click new then paste the C:\src\flutter\bin directory then click ok and ok.
+
+* go to command line then check for flutter.(C:\Users\Admin>flutter)
+
+* check the git version (C:\Users\Admin>git --version) in cmd
+
+* in cmd, check whats other req in flutter (C:\Users\Admin>flutter doctor)
+
+andriod studio
+
+* go to the More Actions then click SDK manager
+
+* go to SDK Tools then download andriod sdk command-line (latest)
+
